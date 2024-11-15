@@ -67,7 +67,7 @@ while True:
     print(f"MAC Address for {ip}: {mac}")
 c.close()
 ```
-## OUPUT - ARP
+## OUTPUT - ARP
 <img width="1081" alt="Screen Shot 1946-07-12 at 08 51 20" src="https://github.com/user-attachments/assets/64952e91-0260-4fdd-86f6-a8eeb175a20c">
 
 ## PROGRAM - RARP
